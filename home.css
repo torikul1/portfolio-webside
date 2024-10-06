@@ -1,0 +1,104 @@
+body {
+  background-image: url("img/me.jpg.jpg");
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+
+  background-size: 100% 100%;
+}
+
+.topnav {
+  overflow: hidden;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.topnav a:hover {
+  background-color: #938b8b;
+  color: rgb(53, 39, 39);
+}
+.topnav .touch a {
+  float: right;
+}
+.name {
+  text-align: left;
+  padding-top: 100px;
+  padding-left: 100px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 250%;
+  color: rgb(254, 254, 254);
+}
+.pera {
+  text-align: left;
+  padding-left: 100px;
+  padding-bottom: 100px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  color: rgb(254, 254, 254);
+}
+.client {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.table {
+  color: white;
+  text-align: center;
+  padding-left: 340px;
+  padding-bottom: 30px;
+}
+table,
+th,
+td {
+  border: 1px solid rgb(255, 255, 255);
+  text-align: center;
+  padding: 25px;
+  font-weight: bold;
+}
+.line {
+  padding-left: 100px;
+  padding-right: 100px;
+  color: #190062;
+}
+.about {
+  color: white;
+  padding-left: 100px;
+  padding-top: 30px;
+  font-size: larger;
+  font-weight: bold;
+}
+.about2{
+  color: white;
+  padding-left: 100px;
+  font-size:xx-large;
+  
+
+
+}
+.hire a{
+  font-size: larger;
+  padding-left: 160px;
+  padding-bottom: 0px;
+  padding-top: 500px;
+  color: rgb(239, 11, 11);
+  text-decoration: none;
+  border: #f2f2f2;
+ 
+}
+
+
+.gif {
+  padding-top: 0px;
+  padding-left: 85px;
+  size: 50%;
+
+ 
+}
